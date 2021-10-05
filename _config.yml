@@ -1,4 +1,5 @@
-title: minima
+theme: minima
+title: Hello World
 author: belnut
 email: ohj8447@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
