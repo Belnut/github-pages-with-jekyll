@@ -1,2 +1,4 @@
-hello world!
-hello my blog!
+---
+title: "Welcome to my blog"
+date: 2021-10-05
+---
